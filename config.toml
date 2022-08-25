@@ -1,6 +1,6 @@
 baseURL = 'https://hugoandcms.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'hugoTestSite3'
 theme = 'ananke'
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
