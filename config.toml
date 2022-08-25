@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'gohugo-theme-ananke'
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  series = 'series'
